@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+}
